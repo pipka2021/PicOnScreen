@@ -1,0 +1,10 @@
+C:\Users\пользователь\source\repos\Pikcha\bin\Debug\Pikcha.exe.config
+C:\Users\пользователь\source\repos\Pikcha\bin\Debug\Pikcha.exe
+C:\Users\пользователь\source\repos\Pikcha\bin\Debug\Pikcha.pdb
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.Form1.resources
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.Properties.Resources.resources
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.csproj.GenerateResource.cache
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.exe
+C:\Users\пользователь\source\repos\Pikcha\obj\Debug\Pikcha.pdb
